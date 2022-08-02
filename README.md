@@ -1,1 +1,1 @@
-This is my readme for the Embedded Systems third year course at UCT.
+This is my readme for the CSC2002S course at UCT.
