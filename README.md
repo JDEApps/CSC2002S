@@ -1,1 +1,1 @@
-This is my readme for the CSC2002S course at UCT.
+This is my readme for the EEE3096S course at UCT.
